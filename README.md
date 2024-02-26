@@ -1,2 +1,2 @@
-# BUSA3020
-Using Python to perform customer segmentation
+# BUSA3020 Assignement
+This project analysed the provided dataset on 2000 customers using Python, identified customer segments, and recommended marketing strategies.
